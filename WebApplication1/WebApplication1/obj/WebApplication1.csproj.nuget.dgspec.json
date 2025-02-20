@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\proyectos\\Test\\TEst\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
         "projectPath": "C:\\proyectos\\Test\\TEst\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Jorge Velázquez\\.nuget\\packages\\",
         "outputPath": "C:\\proyectos\\Test\\TEst\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jorge Velázquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
