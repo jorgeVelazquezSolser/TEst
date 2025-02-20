@@ -14,11 +14,11 @@ namespace WebApplication1.Controllers
         
         }
 
-        [HttpGet("OtroCambio")]
-        public IActionResult GETCambio()
-        {
-            return Ok("ES un ok");
+        //[HttpGet("OtroCambio")]
+        //public IActionResult GETCambio()
+        //{
+        //    return Ok("ES un ok");
 
-        }
+        //}
     }
 }
