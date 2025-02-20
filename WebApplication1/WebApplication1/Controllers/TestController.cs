@@ -14,7 +14,7 @@ namespace WebApplication1.Controllers
         
         }
 
-        [HttpGet("OtroCambioDos")]
+        [HttpGet("OtroCambio")]
         public IActionResult GETCambio()
         {
             return Ok("ES un ok");
